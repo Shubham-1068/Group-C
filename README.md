@@ -2,6 +2,7 @@
 ## Team Members
 - Riju Pandey
 - Anurag Gupta
+
 <h1>Task1-Introduction</h1>
 My name is Riju Kumari .I'm from Motihari, Bihar.
 I have done my matriculation from CBSE board with 81%.
@@ -20,5 +21,4 @@ Ihave been recruited in ISTE society as a Technical member .
 
     ## Co-curricular Qualifications:-
     - I am recruited as a content writer in ISTE
-
 
